@@ -13,6 +13,7 @@
             }
             .card{ 
                 margin-bottom: 10px;
+                margin-top: 10px; 
                 padding: 10px 10px 10px 10px;
             }
             .main, .header{ 
