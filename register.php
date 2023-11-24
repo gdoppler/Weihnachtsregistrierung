@@ -35,6 +35,6 @@ $dessertoptions=["Torte","Obstsalat","Eisbecher","keine Nachspeise"];
             ?>
         </div>
         
-        <input type="submit" value="anmelden"/>
+        <input type="submit" class="btn btn-primary" value="anmelden"/>
     </form>
 </div>
